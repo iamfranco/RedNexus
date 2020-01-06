@@ -19,3 +19,22 @@ const navSlide = () => {
 }
 
 navSlide();
+
+wordBank = [
+  "star wars",
+  "princess leia",
+  "luke", "darth",
+  "vader",
+  ["lord", "tyranus"],
+  ["lord", "maul"]
+  ["the emperor", "palpatine", "senate"],
+  "the galactic senate",
+  "ewok",
+  "endor",
+  "alderaan",
+  "death star",
+  "jar-jar",
+  "naboo",
+  "i don't like sand it's coarse, and rough and irritating and it gets everywhere",
+  "clone wars"
+];
