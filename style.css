@@ -41,6 +41,14 @@ img{
 div{
   width: 100%;
 }
+.box{
+  height: 360px;
+  height: auto;
+  width: 60%;
+  width: auto;
+  margin:10px;
+  float: left;
+}
 .logo{
   width: 14vh;
   height: 8vh;
@@ -48,7 +56,7 @@ div{
   margin: 0;
   cursor: pointer;
 }
-.index-pic{
+div.index-pic{
   max-height: 200px;
   height: auto;
   max-width: 75%;
